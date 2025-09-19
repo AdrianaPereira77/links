@@ -1,6 +1,8 @@
 h1{
 color: hotpink;
 background-color: darkslateblue;
+text-align: center;
+border-radius: 50%;
 }
 body{
     background-color: darkgrey;
@@ -8,5 +10,10 @@ body{
 a{
     background-color: rgb(69, 70, 139);
     color: rgb(196, 197, 255);
+    display: block;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+
 }
 
