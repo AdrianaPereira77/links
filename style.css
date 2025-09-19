@@ -6,6 +6,10 @@ border-radius: 50%;
 }
 body{
     background-color: darkgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 a{
     background-color: rgb(69, 70, 139);
